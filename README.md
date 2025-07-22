@@ -6,12 +6,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77A68&center=true&vCenter=true&width=435&lines=Data+Science+%7C+ML+%7C+DL+%7C+NLP;Python+%7C+Prompt+Engineering;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
+---
 <!-- Profile Views Counter -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrafulKumar-1&label=Profile%20views&color=0e75b6&style=flat" alt="prafulkumar" />
 </p>
+
+---
 
 ### 🔭 About Me
 <p>
@@ -31,6 +33,8 @@ My goal is to leverage data to solve real-world problems, drive innovation, and 
 
 ⚡ Fun Fact: I believe data is the new oil, and I'm here to refine it! 💡
 
+
+---
 ### 🌐 Connect with Me
 <!-- ❗ IMPORTANT: Replace the placeholders below with your actual links! -->
 
@@ -42,6 +46,7 @@ My goal is to leverage data to solve real-world problems, drive innovation, and 
   <a href="" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
+---
 ### 🛠️ Languages & Tools
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
