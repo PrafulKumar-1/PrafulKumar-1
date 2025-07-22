@@ -32,7 +32,7 @@ My goal is to leverage data to solve real-world problems, drive innovation, and 
 ⚡ Fun Fact: I believe data is the new oil, and I'm here to refine it! 💡
 
 🌐 Connect with Me
-<!-- Replace the placeholders with your actual links! -->
+<!-- ❗ IMPORTANT: Replace the placeholders below with your actual links! -->
 
 <p align="left">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/<!-- YOUR-LINKEDIN-USERNAME -->" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -43,25 +43,25 @@ My goal is to leverage data to solve real-world problems, drive innovation, and 
 🛠️ Languages & Tools
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </p>
 
 📈 GitHub Stats
-<!-- Change the theme parameter to your favorite theme: https://www.google.com/search?q=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<!-- These cards will update automatically based on your GitHub activity -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPrafulKumar-1%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="Praful's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PrafulKumar-1&show_icons=true&theme=tokyonight" alt="Praful's GitHub stats" />
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPrafulKumar-1%26layout%3Dcompact%26theme%3Dtokyonight" alt="Praful's most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrafulKumar-1&layout=compact&theme=tokyonight" alt="Praful's most used languages" />
 </p>
