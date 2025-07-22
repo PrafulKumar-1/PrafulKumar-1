@@ -4,13 +4,13 @@
 <!-- Typing SVG Animation -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DData%2BScience%2B%257C%2BMachine%2BLearning%3BStatistical%2BModeling%2B%257C%2BData%2BEngineering%3BPython%2B%257C%2BSQL%2B%257C%2BData%2BVisualization%3BAlways%2BLearning%2BNew%2BTech%2B%25F0%259F%259A%2580" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77A68&center=true&vCenter=true&width=435&lines=Data+Science+%7C+ML+%7C+DL+%7C+NLP;Python+%7C+Prompt+Engineering;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DPrafulKumar-1%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="PrafulKumar-1" />
+  <img src="https://komarev.com/ghpvc/?username=PrafulKumar-1&label=Profile%20views&color=0e75b6&style=flat" alt="prafulkumar" />
 </p>
 
 📖 About Me
