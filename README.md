@@ -56,12 +56,12 @@ My goal is to leverage data to solve real-world problems, drive innovation, and 
 </p>
 
 📈 GitHub Stats
-<!-- These cards will update automatically. I've added count_private=true to include all your activity. -->
+<!-- I've added a cache parameter to force GitHub to reload the images. -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPrafulKumar-1%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" alt="Praful's GitHub stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPrafulKumar-1%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26cache_seconds%3D86400" alt="Praful's GitHub stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrafulKumar-1&layout=compact&theme=tokyonight" alt="Praful's most used languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPrafulKumar-1%26layout%3Dcompact%26theme%3Dtokyonight%26cache_seconds%3D86400" alt="Praful's most used languages" />
 </p>
