@@ -59,7 +59,7 @@ My goal is to leverage data to solve real-world problems, drive innovation, and 
 <!-- I've added a cache parameter to force GitHub to reload the images. -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrafulKumar-1&show_icons=true&theme=tokyonight" alt="Praful's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrafulKumar-1&show_icons=true&theme=tokyonight&count_private=true" alt="Praful's GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrafulKumar-1&layout=compact&theme=tokyonight" alt="Praful's most used languages"/>
 
 </p>
