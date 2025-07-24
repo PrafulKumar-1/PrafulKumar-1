@@ -4,8 +4,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F77A68&center=true&vCenter=true&width=600&lines=Data+Science+%F0%9F%A7%A1+|+Machine+Learning+%F0%9F%A4%96+|+Deep+Learning+%F0%9F%A7%AE+|+NLP+%F0%9F%93%9A+|+Prompt+Engineering+%F0%9F%94%A5+|+Generative+AI+%F0%9F%A4%96+|+MLOps+%E2%9C%94%EF%B8%8F+|+Always+Learning+New+Tech+%F0%9F%9A%80" alt="Data Science Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F77A68&center=true&vCenter=true&width=600&lines=Exploratory+Data+Analysis+%F0%9F%93%98;Data+Visualization+%F0%9F%93%8A;Feature+Engineering+%F0%9F%92%A1;Insights+%F0%9F%94%A5;Pattern+Detection+%F0%9F%94%8D;Conclusions+%E2%9C%94%EF%B8%8F;Reporting+%F0%9F%95%96;Analysis+%F0%9F%A7%A1;Interpretation+%F0%9F%93%9A;Storytelling+%F0%9F%8E%A4" alt="Data Science Workflow Banner" />
 </p>
+
 
 
 
